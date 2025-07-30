@@ -1,2 +1,2 @@
 # Simple-Projects
-Projects of JS , HTML and  CSS
+A TIC TAC TOE Project with JS , HTML and  CSS
